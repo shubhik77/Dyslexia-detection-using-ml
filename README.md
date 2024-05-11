@@ -1,4 +1,4 @@
-# HackathonML
+# Shubhi Khandelwal
 Predicting Dyslexia using Machine Learning.
 
 ● There are a series of questions that need to be answered by the user, and on the basis of the results, scores are given for language, memory, speed,
